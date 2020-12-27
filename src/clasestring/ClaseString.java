@@ -22,6 +22,8 @@ public class ClaseString {
         // Obtener el char de una posicion concreta
         System.out.println("char de la posicion 5: " + s.charAt(5));
        
+        //Cambio muestra nombre por pantalla
+        System.out.println("Laura Bandera Elena");
     }
     
 }
